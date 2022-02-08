@@ -1,8 +1,8 @@
 ---
-title: Hello world!
-layout: home
+layout: default
 ---
 
-## Andrel Chew
-Github: [https://github.com/ackw](https://github.com/ackw)
-Resume: [resume.pdf](https://github.com/ackw/resume/resume.pdf). 
+# Andrel Chew
+Github: <https://github.com/ackw>
+
+Resume: [resume.pdf](https://ackw.github.io/resume/resume.pdf)
