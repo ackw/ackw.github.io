@@ -3,6 +3,12 @@ layout: default
 ---
 
 # Andrel Chew
-Github: <https://github.com/ackw>
+### Github
+[Available Here](https://github.com/ackw)
 
-Resume: [resume.pdf](https://ackw.github.io/resume/resume.pdf)
+### Resume
+[Available Here](https://ackw.github.io/resume/resume.pdf)
+
+### MBTI Personality Recognition
+Final Year Project -
+[Available Here](https://share.streamlit.io/ackw/mbti-prediction-tool/main/app.py)
