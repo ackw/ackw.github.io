@@ -1,8 +1,10 @@
+---
+title: [Hello world!]
+layout: home
+---
+
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Hello world!</title>
-    </head>
     <body>
         <h1>Andrel Chew</h1>
         <p>Github available: 
